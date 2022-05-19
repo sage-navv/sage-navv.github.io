@@ -298,13 +298,13 @@ img{
   z-index: var(--z-back);
 }
 .skills__html{
-  width: 95%;
+  width: 90%;
 }
 .skills__css{
-  width: 85%;
+  width: 70%;
 }
 .skills__js{
-  width: 65%;
+  width: 80%;
 }
 .skills__ux{
   width: 85%;
@@ -355,18 +355,18 @@ img{
   background-color: var(#1b1b1b);
   color: #fff;
   text-align: center;
-  font-weight: var(--font-semi);
+  font-weight: var(--normal-font-size);
   padding: 2rem 0;
 }
 .footer__title{
-  font-size: 2rem;
+  font-size: 1rem;
   margin-bottom: var(--mb-4);
 }
 .footer__social{
   margin-bottom: var(--mb-4);
 }
 .footer__icon{
-  font-size: 1.5rem;
+  font-size: 0.5rem;
   color: #fff;
   margin: 0 var(--mb-2)
 }
